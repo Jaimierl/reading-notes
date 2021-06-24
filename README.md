@@ -17,4 +17,4 @@ How to keep myself in a growth mindset:
 - [ ] Being patient with myself
 - [ ] Asking for help when needed
 
-Check out the rest of my portfolio [here](jaimierl.github.io)
+Check out the rest of my portfolio [here](http://jaimierl.github.io)
