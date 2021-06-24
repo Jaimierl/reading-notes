@@ -13,8 +13,9 @@ Here are some examples of commonly used markdown symbols and how they can be imp
     - ###### Sizes
 - The \* and \_ symbols can make a word _italicized_ when surrounded by the symbols
 - The \** and \__ symbols can make a word __bold__ when the surrounding symbols are doubled up
-- The \> symbol can make indented quotes 
-        >   Like This
+- Lists can be made by adding numbers with periods
+- 1. Like
+- 2. This
 - The \- can make indented lists like this one
 
 The good news is that once a page is made with Github, the formatting is almost automatic.
