@@ -10,7 +10,9 @@ My name is Jae and I currently work as a project manager and a financial coach.
 
 ### The Growth Mindset 
 
+A growth mindset is essentially a committment to learning. It is believing that you have the capacity to learn instead of just being stuck with the knowledge and innate abilities you alreeady excel at. Having a growth mindset will enable me to embrace challenges, overcome obstacles and welcome being stuck (within reason) as a chance to learn.
+
 How to keep myself in a growth mindset:
-- Embrace making mistakes
-- Being patient with myself
-- Asking for help when needed
+- [ ] Embrace making mistakes
+- [ ] Being patient with myself
+- [ ] Asking for help when needed
