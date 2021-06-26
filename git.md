@@ -1,4 +1,4 @@
-# Git and Github
+# Git
 
 ### What is Git and How does it Work?
 
