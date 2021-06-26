@@ -37,3 +37,6 @@ Linux sees all navigation/inputs/outputs through files. The thing is it is very 
 The good news is, sometimes files can be hidden which would make life confusing but Linux can easily show hidden files using 
 > ls -a 
 This will list all files in a directory
+
+
+[Reading Notes Home Page](reading-notes.md)
