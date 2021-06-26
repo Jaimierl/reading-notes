@@ -28,3 +28,5 @@ The good news is that once a page is made with Github, the formatting is almost 
 This makes your markdown easy to impliment - it is as easy as typing.
 
 #### Happy Coding!
+
+[Reading Notes Home Page](README.md)
