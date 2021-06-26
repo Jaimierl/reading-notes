@@ -21,7 +21,7 @@ How to keep myself in a growth mindset:
 ### More Topics from Code 102:
 - [Markdown](markdown.md)
 - [Command Line Basics](command-line-basics.md)
-- [Git and Github](github.md)
+- [Git and Github](git.md)
 
 
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
