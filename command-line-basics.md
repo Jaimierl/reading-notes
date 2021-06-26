@@ -39,4 +39,4 @@ The good news is, sometimes files can be hidden which would make life confusing 
 This will list all files in a directory
 
 
-[Reading Notes Home Page](reading-notes.md)
+[Reading Notes Home Page](readingme.md)
