@@ -2,7 +2,7 @@
 
 ### What is Git and How does it Work?
 
-Git is essentially a program for being able to work on a bit of a program while the pain program is operational.
+Git is essentially a program for being able to work on a bit of a program while the main program is operational.
 
 The **main** is the basic version of the site or code or program that is being worked on.
 The **branches** are the places where someone wants to work on something.
