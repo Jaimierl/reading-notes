@@ -17,4 +17,11 @@ How to keep myself in a growth mindset:
 - [ ] Being patient with myself
 - [ ] Asking for help when needed
 
+
+### More Topics from Code 102:
+- [Command Line Basics](command-line-basics.md)
+- [Markdown](markdown.md)
+- [Git and Github](github.md)
+
+
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
