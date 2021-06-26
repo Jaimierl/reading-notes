@@ -19,8 +19,8 @@ How to keep myself in a growth mindset:
 
 
 ### More Topics from Code 102:
-- [Command Line Basics](command-line-basics.md)
 - [Markdown](markdown.md)
+- [Command Line Basics](command-line-basics.md)
 - [Git and Github](github.md)
 
 
