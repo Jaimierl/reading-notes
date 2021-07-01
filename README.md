@@ -25,6 +25,7 @@ How to keep myself in a growth mindset:
 - [HTML](html.md)
 - [CSS](css.md)
 - [Foundations of Javascript](javascript1.md)
+- [Basic Javascript Programming](javascript2.md)
 
 
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
