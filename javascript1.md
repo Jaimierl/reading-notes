@@ -1,6 +1,6 @@
 # Foundations of Javascript
 
-Javascript is essentially a computer language that can make websites more interactive by running more complex processes.
+Javascript is essentially a computer language that can make websites interactive by running more complex processes.
 
 ## How Computers Work
 - Computers work through 4 main processes: **Input**, **Storage**, **Processing**, and **Output**.
