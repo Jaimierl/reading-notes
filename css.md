@@ -24,6 +24,7 @@ p {
 
 
  ## Formatting and Priority
+ 
  CSS can be added to webpages in three ways:
  - External CSS has all of the stylesheet information in one file, usually used to edit a full webpage at once
  - Internal CSS has all of the stylesheet information, likely for one webpage, all at the top of the html for the page in question
