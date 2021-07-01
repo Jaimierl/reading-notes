@@ -23,6 +23,7 @@ How to keep myself in a growth mindset:
 - [Command Line Basics](command-line-basics.md)
 - [Git](git.md)
 - [HTML](html.md)
+- [CSS](css.md)
 
 
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
