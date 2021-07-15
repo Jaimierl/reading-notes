@@ -31,7 +31,7 @@ How to keep myself in a growth mindset:
 ### Code 201 Reading Notes
 - [Reintro to HTML and Javascript](class-01.md)
 - [HTML and Javascript: A Closer Look Ft. Github](class-02.md)
-- [Class 3](class-03.md)
+- [HTML Lists, The CSS Box Model, and JS Control Flow](class-03.md)
 - [Class 4](class-04.md)
 - [Class 5](class-05.md)
 - [Class 6](class-06.md)
