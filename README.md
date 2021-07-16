@@ -32,7 +32,7 @@ How to keep myself in a growth mindset:
 - [Reintro to HTML and Javascript](class-01.md)
 - [HTML and Javascript: A Closer Look Ft. Github](class-02.md)
 - [HTML Lists, The CSS Box Model, and JS Control Flow](class-03.md)
-- [Class 4](class-04.md)
+- [HTML Links, CSS Layout Basics, and an Intro to Javascript Functions](class-04.md)
 - [Class 5](class-05.md)
 - [Class 6](class-06.md)
 - [Class 7](class-07.md)
