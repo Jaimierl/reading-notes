@@ -38,7 +38,7 @@ How to keep myself in a growth mindset:
 - [Tables, Objects, and the DOM](class-07.md)
 - [Thoughts on CSS Layout](class-08.md)
 - [Class 9](class-09.md)
-- [Class 10](class-10.md)
+- [Debugging](class-10.md)
 - [Class 11](class-11.md)
 - [Class 12](class-12.md)
 - [Class 13](class-13.md)
