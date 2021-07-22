@@ -35,7 +35,7 @@ How to keep myself in a growth mindset:
 - [HTML Links, CSS Layout Basics, and an Intro to Javascript Functions](class-04.md)
 - [Making Websites Look Nice](class-05.md)
 - [Doms - The Complicated Stuff](class-06.md)
-- [Class 7](class-07.md)
+- [Tables, Objects, and the DOM](class-07.md)
 - [Thoughts on CSS Layout](class-08.md)
 - [Class 9](class-09.md)
 - [Class 10](class-10.md)
