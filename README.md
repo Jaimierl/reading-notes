@@ -40,8 +40,8 @@ How to keep myself in a growth mindset:
 - [Forms and Events](class-09.md)
 - [Debugging](class-10.md)
 - [Audio, Video, Images](class-11.md)
-- [Class 12](class-12.md)
-- [Class 13](class-13.md)
+- [Charts and Canvas](class-12.md)
+- [Local Storage](class-13.md)
 - [Class 14a](class-14a.md)
 - [Class 14b](class-14b.md)
 
