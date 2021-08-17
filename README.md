@@ -42,7 +42,7 @@ How to keep myself in a growth mindset:
 - [Audio, Video, Images](class-11.md)
 - [Charts and Canvas](class-12.md)
 - [Local Storage](class-13.md)
-- [Class 14a](class-14a.md)
+- [CSS Animations](class-14a.md)
 - [Class 14b](class-14b.md)
 
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
