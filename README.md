@@ -1,8 +1,8 @@
 # Reading Notes for Code Fellows
 
-This is my reading notes depot to keep track of my study documents
+This is my reading notes depot to keep track of notes from assigned study documents.
 
-### About Me
+## About Me
 
 My name is Jae and I currently work as a project manager and a financial coach. 
 
@@ -18,7 +18,7 @@ How to keep myself in a growth mindset:
 - [x] Ask for help when needed
 
 
-### Topics from Code 102:
+## Topics from Code 102 - Intro to Software Development:
 - [Markdown](markdown.md)
 - [Command Line Basics](command-line-basics.md)
 - [Git](git.md)
@@ -28,7 +28,7 @@ How to keep myself in a growth mindset:
 - [Basic Javascript Programming](javascript2.md)
 - [Loops in Javascript](javascript3.md)
 
-### Code 201 Reading Notes
+## Topics from Code 201 - Foundations of Software Development
 - [Reintro to HTML and Javascript](class-01.md)
 - [HTML and Javascript: A Closer Look Ft. Github](class-02.md)
 - [HTML Lists, The CSS Box Model, and JS Control Flow](class-03.md)
@@ -45,4 +45,12 @@ How to keep myself in a growth mindset:
 - [CSS Animations](class-14a.md)
 - [Class 14b](class-14b.md)
 
+## Topics from Code 301 - Intermediate Software Development
+- [Intro to React and Components](reactAndComponents.md)
+
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
+
+## Things I want to know more about
+- The Northern Lights
+- Middle Eastern History
+- African Architecture
