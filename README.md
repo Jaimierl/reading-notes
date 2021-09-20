@@ -47,6 +47,8 @@ How to keep myself in a growth mindset:
 
 ## Topics from Code 301 - Intermediate Software Development
 - [Intro to React and Components](reactAndComponents.md)
+- [State and Props](stateAndProps.md)
+
 
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
 

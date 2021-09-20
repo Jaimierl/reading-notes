@@ -15,3 +15,7 @@
 2. In React, props is used for passing data between components. 
 
 3. According to [ItNext](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0), props are passed in a uni-directional flow from parent to child. The props data is read-only to the child and should not be edited or ammended by the child component.
+
+
+
+[Reading Notes Home Page](README.md)
