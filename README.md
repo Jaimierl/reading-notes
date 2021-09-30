@@ -48,7 +48,6 @@ How to keep myself in a growth mindset:
 ## Topics from Code 301 - Intermediate Software Development
 - [Intro to React and Components](reactAndComponents.md)
 - [State and Props](stateAndProps.md)
-- []()
 - [Passing Functions as Props](passFunctionsAsProps.md)
 - [React and Forms](reactAndForms.md)
 - [React Concepts](reactConcepts.md)
