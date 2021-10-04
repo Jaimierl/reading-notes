@@ -55,11 +55,11 @@ How to keep myself in a growth mindset:
 - [Rest (Not the relaxation kind)](rest.md)
 - [What are APIs?](api.md)
 - [Functional Programming](functionalProgramming.md)
-- [The Memory Stage](memoryStage.md)
+- [Memory Storage](memoryStorage.md)
 - [Mongoose and Mongo](mAndM.md)
-- [Crud - The Programming Kind](crud.md))
+- [Crud - The Programming Kind](crud.md)
 - [Diversity and Inclusion in Tech](diversityAndInclusion.md)
-- [Authentication](authentication).md
+- [Authentication](authentication.md)
 - [301 Topics Summary](301summary.md)
 
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
