@@ -12,6 +12,7 @@
 10. The status code of a successful POST request will return 201 or 200.
 11. The status code of a successful DELETE request will return 204.
 
-My name using RegEx would be written as << J >><< a >><< e >>,
+My name using RegEx would be ^Jae Loney$, and written in a function would look like 
+  let regex =  /^Jae Loney$/i
 
 [Reading Notes Home Page](README.md)
