@@ -1,6 +1,5 @@
 # Crud - The Programming Kind
 
-
 CRUD stands for Create, Read, Update and Delete which is used when describing computer storage.
 
 ## Status Codes
