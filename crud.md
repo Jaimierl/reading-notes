@@ -20,14 +20,14 @@ The following are a few status codes meanings:
 
 ## Rest APIs a Few Ways
 
-1. We need to pull our MongoDB database string out of our server and put it into our .env because ______________________________
-2. Middleware is ______________________________
-3. The app.use(express.json()) is for ______________________________
-4. In a route, the /:id means ______________________________
+1. We need to pull our MongoDB database string out of our server and put it into our .env because this allows it to be accessed from the server.
+2. Middleware is software that can link an operating system with the applications tunning on it.
+3. The app.use(express.json()) is for recognizing an incoming object as a Json object from the middleware.
+4. In a route, the /:id means a search for a directory.
 5. Put and Patch both replace a bit of data. They are different because Put will replace the entire bit of data whereas Patch will replace a portion of the data.
-6. You make a value in a schema by ______________________________
-7. A 500 error code status means______________________________
-8. The difference between a status 200 and a status 201 is ______________________________
+6. You make a value in a schema by setting the default schema in the model.
+7. A 500 error code status means server error.
+8. The difference between a status 200 and a status 201 is that a 200 error means that an object was created and returned but a 201 error means that an object was created but only its reference was returned.
 
 
 [Reading Notes Home Page](README.md)
