@@ -4,9 +4,9 @@ This is my reading notes depot to keep track of notes from assigned study docume
 
 ## About Me
 
-My name is Jae and I currently work as a project manager and a financial coach. 
+My name is Jae and I currently work as an account manager. 
 
-###### I am very excited to be learning to code. 
+##### I am very excited to be learning to code! 
 
 ### The Growth Mindset 
 
