@@ -62,6 +62,8 @@ How to keep myself in a growth mindset:
 - [Authentication](301/authentication.md)
 
 ## Topics from Code 401 - Advanced Software Development in Python
+- [SQL Review](401/SQLReview/SQLReview.md)
+
 
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
 
