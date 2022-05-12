@@ -37,6 +37,6 @@ When moving, deleting, and other actions remember that there is no undo button f
 - rm remove the file
 - rmdir will remove a non-empty directory
 
-For more commands, see the [full list here]!(https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+For more commands, see the [full list here](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)!
 
 [Reading Notes Home Page](README.md)
