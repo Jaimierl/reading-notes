@@ -20,6 +20,6 @@ This article came with a few questions:
 - O(N^2) where the performance will grow proportionally to the amount of information input(Think of the exponential curve of 2^2)
 - O(log N) where the performance will grow by doubling or halving with the size of the input
 
-To learn more about Big O Notation, I would highly recommend the (CodeNewbie Podcast Here)[https://www.codenewbie.org/basecs/8]!
+To learn more about Big O Notation, I would highly recommend the [CodeNewbie Podcast Here](https://www.codenewbie.org/basecs/8)!
 
 [Reading Notes Home Page](README.md)
