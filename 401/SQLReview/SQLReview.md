@@ -9,7 +9,7 @@ The full SQL table is called an **entity** and each line in the table (or the in
 
 Select * brings back the full table. You can use a comma between queries. Remember to add the from and the name of the database. 
 
-![Lesson 1 Completed](/401/SQLReview/SQL1.PNG)
+![Lesson 1 Completed](/home/jaimierl/projects/codefellows/reading-notes/401/SQLReview/SQL1.PNG)
 
 ## Lesson 2 - Logic and Filtering
 
