@@ -7,17 +7,17 @@ Choosing a text editor that you work well with can speed up your code writing an
 
 A few of the important things to look for in a code editor are:
 
-- Code Completetion \- Essentially predictive type for coding
-- Syntax Highlighting \- Makes the different types of code differen colours for easier editing
+- Code Completion \- Essentially predictive type for coding
+- Syntax Highlighting \- Makes the different types of code different colours for easier editing
 - Themes \- Which makes things fun and easier to read
-- Extentions \- Add ons for when you want to do something new and different.
+- Extensions \- Add ons for when you want to do something new and different.
 
 All of your code is written in text editors so it is important to find one you are compatible with.
 
 ### Basic Terminal Notes
 
 #### Command Line
-The command line is essentially a text-basesd way to interract with your computer system. Your input to the system is commands and it outputs feedback in text to you.
+The command line is essentially a text-based way to interact with your computer system. Your input to the system is commands and it outputs feedback in text to you.
 
 A few more commands:
 - cd is used to change directories. If run without a directory to change to it will take you back to your home directory.
@@ -28,9 +28,9 @@ A few more commands:
 - \.\. is  a shortcut to the parent directory
 - The tab key may help you auto-type your directory names
 
-Linux sees all navigation/inputs/outputs through files. The thing is it is very picky and has a ton of finnecky little rules such as:
-- Caps sensitivity
-- Extention names (the part after the dot in example.txt) that are essentially ignored
+Linux sees all navigation/inputs/outputs through files. The thing is it is very picky and has a ton of finnicky little rules such as:
+- Case sensitivity
+- Extension names (the part after the dot in example.txt) that are essentially ignored
 - Spaces are not allowed in file names unless they are in quotes
 - Backslash works to ignore commands like in Markup
 
