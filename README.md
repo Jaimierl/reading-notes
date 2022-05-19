@@ -65,17 +65,17 @@ How to keep myself in a growth mindset:
 - [SQL Review](401/SQLReview/SQLReview.md)
 - [The Command Line](401/TheCommandLine.md)
 - [Class 1 - Big O (Notation)](401/Class1BigO.md)
-- [Class 2 - Testing and Modules](401/Class2TandM.md)
-- [Class 3 - File IO and Exceptions]
-- [Class 4 - Classes, Objects, and Recursion]
-- [Class 5 - Linked Lists]
-- [Class 6 - Ten Thousand Game 1]
-- [Class 7 - ]
-- [Class 8 - ]
-- [Class 9 - ]
-- [Class 10 - ]
-- [Class 11 - ]
-- [Class 12 - ]
+- [Class 2 - Recursion, Testing and Modules](401/Class2TandM.md)
+- [Class 3 - File IO and Exceptions](401/Class3FileIO.md)
+- [Class 4 - Classes, Objects, and Recursion](401/Class4Classes.md)
+- [Class 5 - Linked Lists](401/Class5Linked.md)
+- [Class 6 - Ten Thousand Game 1](401/Class6Game1.md)
+- [Class 7 - Ten Thousand Game 2](401/Class6Game2.md)
+- [Class 8 - Ten Thousand Game 3](401/Class6Game3.md)
+- [Class 9 - Ten Thousand Game 4](401/Class6Game4.md)
+- [Class 10 - Stacks and Queues](401/Class10Stacks.md)
+- [Class 11 - Data Analysis](401/Class11Data.md)
+- [Class 12 - Pandas](401/Class12Pandas.md)
 - [Class 13 - ]
 - [Class 14 - ]
 - [Class 15 - ]
@@ -107,7 +107,8 @@ How to keep myself in a growth mindset:
 - [Class 40 - ]
 - [Class 41 - ]
 - [Class 42 - ]
-
+- [Class 43 - Ethics](401/Class43Ethics.md)
+- [Class 44b - OSS Contributions](401/Class43BOSS.md)
 
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
 

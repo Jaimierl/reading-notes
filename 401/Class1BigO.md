@@ -22,4 +22,9 @@ This article came with a few questions:
 
 To learn more about Big O Notation, I would highly recommend the [CodeNewbie Podcast Here](https://www.codenewbie.org/basecs/8)!
 
+## Python Names and Values
+[This lecture by Ned Batchelder](https://www.youtube.com/watch?v=_AEJHKGk9ns&ab_channel=PyCon2015) described how when python variables are named, they reference the underlying data that the pointer pointed to. By having one variables value change, other variables would still point to the original data that the first variable had assigned to it. Also if the data is a list or something and gets updated, the information stored in both or all variables pointing to this data is also changed. 
+
+
+
 [Reading Notes Home Page](README.md)
