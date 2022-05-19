@@ -1,6 +1,6 @@
 # Cascading Style Sheets or How Websites Look Nice
 
-CSS stands for Cascading Style Sheets. This is the language of computer pizzaz. This is really where the magic happens. After the content is applied in through the HTML language, a formatting page is applied to the site that tells the website how to display everything from the banners to the content with all of the styles colours and images that will bring your website to life.
+CSS stands for Cascading Style Sheets. This is the language of computer pizzazz. This is really where the magic happens. After the content is applied in through the HTML language, a formatting page is applied to the site that tells the website how to display everything from the banners to the content with all of the styles colours and images that will bring your website to life.
 
 Websites come with default formatting, but CSS gives the ability to personalize every detail. 
 

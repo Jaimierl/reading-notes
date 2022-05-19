@@ -1,6 +1,6 @@
 # Linked Lists and The Traveling Salesman
 
-A **linked list** is essentially a line of points (also called nodes). The first node (or the head) points to the next node which eventually points to the last node (or the tail). In this way in a singly linked list, every point has its own information and the the address for its next neighbor. In a doubly linked list, each point has the information for the node before and after itself as well as its own information. 
+A linear **linked list** begins with a line of points (also called nodes). The first node (or the head) points to the next node which eventually points to the last node (or the tail). In this way in a singly linked list, every point has its own information and the the address for its next neighbor. In a doubly linked list, each point has the information for the node before and after itself as well as its own information. 
 
 **The Traveling Salesman** is a machine learning problem that gives the user a list of nodes and distances between the nodes. In one version of the problem, the person or computer is tasked with finding the shortest distance between points that hits every node only once. In another version of the problem, the points must be visited in a closed loop in which every point has a node before and after itself.
 

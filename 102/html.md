@@ -1,6 +1,6 @@
 # HTML aka HyperText Markdown Language
 
-## HTML is the programming languaged used to define the structure of web pages. 
+## HTML is the programming language used to define the structure of web pages. 
 
 ### Wireframing
 

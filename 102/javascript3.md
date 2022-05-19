@@ -16,7 +16,7 @@ A **For** statement will run until a certain condition is not met, or is false. 
 
 - The initial expression is the starting place for the function
 - Then the conditional expression is checked much like in a while loop.
-- If the conditional expression is true, then the statement excecutes
+- If the conditional expression is true, then the statement executes
 - After the statement executes, the incremental expression changes the initial expression to make a new starting point.
 - Then the function goes back to checking the conditional expression.
 

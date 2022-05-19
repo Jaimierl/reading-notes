@@ -24,7 +24,7 @@ According to MDN Web Docs, A function is usually made up of three parts:
 
 However, functions can also be written as expressions which omits the name of the function. 
 
-**It is important to note that defining or *calling* a function and running or *excecuting* a function are different.**
+**It is important to note that defining or *calling* a function and running or *executing* a function are different.**
 
 Functions can be run in many different ways. They can be **nested** aka placed inside of different function sor they can be **recursive** aka placed inside of themselves. **Control Flow** dictates the order in which the computer reads the script file. Usually this is from top to bottom unless there is something like a loop or conditional that redirects the computer. 
 

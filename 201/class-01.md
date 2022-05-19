@@ -1,4 +1,4 @@
-# Reintro to HTML and Javascript
+# Re-Intro to HTML and Javascript
 
 The web works as a giant network getting you from your computers internet service provider to system of servers called the Domain Name System all the way to the IP address of the website you want through the web-server it is hosted on.
 

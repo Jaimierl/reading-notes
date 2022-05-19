@@ -11,7 +11,7 @@ The **repository** is the places where all versions or changes can be stored and
 Benefits include:
 - Changes can be made and worked with without impacting the working elements on the main site.
 - Multiple coders can work on different branches for fixes, changes, and updates without affecting each other or the main code.
-- Previous versions of the main and of branchces in progress are accessible in case you want to bring back old elements or restore a version from before you made a mistake.
+- Previous versions of the main and of branches in progress are accessible in case you want to bring back old elements or restore a version from before you made a mistake.
 - Versions can be kept in the cloud in virtual servers called *repositories* so if something happens to a computer a backup of a previous version can keep you from losing everything you had worked on.
 - Different elements of the main system can be worked on in pieces or out of order.
 
@@ -27,7 +27,7 @@ When branches are tested and proven to be working, they can be incorporated in t
 - **States** are the phases a file can be in. A file can be in one of three states which are:
   - **Committed** or stored in a local database
   - **Modified** or changed without having been committed
-  - **Staged** which is ready and waiting to be commited
+  - **Staged** which is ready and waiting to be committed
 
 ### Git Repositories
 Github is a very popular version of a repository for git where files can be stored updated and worked on.
@@ -38,6 +38,6 @@ There is some repository related vocab regarding the stages of files being downl
 
 The **head** is the most recent version to be worked on (or committed) which comes from the **index** which is the file storage and staging area where files are first added from the **working directory**. 
 
-*Files* are **tracked** or **untracked** depending on whether they are committed into the last file snapshot while *changes within files* can be make the file considered **modified**. A modfied file is considered to be **staged** when it is completed until it is committed to a new file. Once versions of the files are all complete, the finished files can be **pushed** or re-uploaded into teh main repository.
+*Files* are **tracked** or **untracked** depending on whether they are committed into the last file snapshot while *changes within files* can be make the file considered **modified**. A modified file is considered to be **staged** when it is completed until it is committed to a new file. Once versions of the files are all complete, the finished files can be **pushed** or re-uploaded into teh main repository.
 
 [Reading Notes Home Page](README.md)

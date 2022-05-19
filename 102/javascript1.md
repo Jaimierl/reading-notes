@@ -9,7 +9,7 @@ Javascript is essentially a computer language that can make websites interactive
 - Computers are made of the **Hardware** or physical components and also the **Software** or the written code that tells a computer what to do and how to do it.
 
 ## Javascript Basics
-Javascript can be used to collect information by requesting **inuputs** which can be linked or changed in some way to create different **outputs**. 
+Javascript can be used to collect information by requesting **inputs** which can be linked or changed in some way to create different **outputs**. 
 
 **Variables** are one method of storing information in Javascript. These input variables must be stored with different names and can be used to do math, or change displays to create outputs.
 
