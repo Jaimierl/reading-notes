@@ -16,6 +16,7 @@ O(N^2) - Scales quadratically
 A few rules to remember:
 - Different inputs would become different variables ie. Looping through two arrays would be O(A*B) not O(N)
 - The least efficient O of N step is the one that dictates the efficiency of the algorithm.
+- Binary Search is a famous LOGARITHMIC complexity problem.
 
 ## Dependency Injection
 
