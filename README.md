@@ -107,8 +107,8 @@ How to keep myself in a growth mindset:
 - [Class 40 - ]
 - [Class 41 - ]
 - [Class 42 - ]
-- [Class 43 - Ethics](401/Class43Ethics.md)
-- [Class 44b - OSS Contributions](401/Class43BOSS.md)
+- [Class 43 - Ethics in Tech](401/Class43Ethics.md)
+- [Class 43B - Open Source Software Contributions](401/Class43BOSS.md)
 
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
 
