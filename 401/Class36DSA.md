@@ -1,4 +1,4 @@
-# 
+# Distributed Systems Architecture
 
 This topic matters in relation to what we are studying in this module:
 

@@ -76,37 +76,32 @@ How to keep myself in a growth mindset:
 - [Class 10 - Stacks and Queues](401/Class10Stacks.md)
 - [Class 11 - Data Analysis](401/Class11Data.md)
 - [Class 12 - Pandas](401/Class12Pandas.md)
-- [Class 13 - ]
-- [Class 14 - ]
-- [Class 15 - ]
-- [Class 16 - ]
-- [Class 17 - ]
-- [Class 18 - ]
-- [Class 19 - ]
-- [Class 20 - ]
-- [Class 21 - ]
-- [Class 22 - ]
-- [Class 23 - ]
-- [Class 24 - ]
-- [Class 25 - ]
-- [Class 26 - ]
-- [Class 27 - ]
-- [Class 28 - ]
-- [Class 29 - ]
-- [Class 30 - ]
-- [Class 31 - ]
-- [Class 32 - ]
-- [Class 33 - ]
-- [Class 33 - ]
-- [Class 34 - ]
-- [Class 35 - ]
-- [Class 36 - ]
-- [Class 37 - ]
-- [Class 38 - ]
-- [Class 39 - ]
-- [Class 40 - ]
-- [Class 41 - ]
-- [Class 42 - ]
+- [Class 13 - Linear Regressions](401/Class13LRegression.md)
+- [Class 14 - Data Visualization](401/Class14DataViz.md)
+- [Class 15 - Trees](401/Class15Trees.md)
+- [Class 16 - Serverless Functions](401/Class16Serverless.md)
+- [Class 17 - Web Scraping](401/Class17Scraping.md)
+- [Class 18 - Cryptography](401/Class18Cryptography.md)
+- [Class 19 - Automation](401/Class19Automation.md)
+(Some Classes are Taken up with Midterm Project Preparations)
+- [Class 26 - Intro to Django](401/Class26Djando.md)
+- [Class 27 - Django Models](401/Class27DjandoModels.md)
+- [Class 28 - Django CRUD and Forms](401/Class28DJCrud.md)
+- [Class 29 - Django Custom Users](401/Class29DJCustom.md)
+- [Class 30 - Hash Tables](401/Class30Hash.md)
+- [Class 31 - Django REST Framework & Docker](401/Class31DJRest.md)
+- [Class 32 - Permissions & Postgresql](401/Class32PP.md)
+- [Class 33 - Authentication & Production Server](401/Class33AP.md)
+- [Class 33 - Authentication & Production Server](401/Class34Servers.md)
+- [Class 34 - API Deployment](401/Class35API.md)
+- [Class 35 - Graphs](401/Class35Graphs.md)
+- [Class 36 - DSA Review](401/Class36DSA.md)
+- [Class 37 - React 1](401/Class37React1.md)
+- [Class 38 - React 2](401/Class38React2.md)
+- [Class 39 - React 3](401/Class39React3.md)
+(There is no reading for class 40)
+- [Class 41 - React 4](401/Class41React4.md)
+- [Class 42 - Pythonisms](401/Class42Pythonisms.md)
 - [Class 43 - Ethics in Tech](401/Class43Ethics.md)
 - [Class 43B - Open Source Software Contributions](401/Class43BOSS.md)
 
