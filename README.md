@@ -4,11 +4,11 @@ This is my reading notes depot to keep track of notes from assigned study docume
 
 ## About Me
 
-My name is Jae and I currently work as an account manager. 
+My name is Jae and I currently work as an account manager.
 
 ##### I am very excited to be learning to code! 
 
-### The Growth Mindset 
+### The Growth Mindset
 
 A growth mindset is essentially a committment to learning. It is believing that you have the capacity to learn instead of just being stuck with the knowledge and innate abilities you alreeady excel at. Having a growth mindset will enable me to embrace challenges, overcome obstacles and welcome being stuck (within reason) as a chance to learn.
 
@@ -73,35 +73,35 @@ How to keep myself in a growth mindset:
 - [Class 7 - Ten Thousand Game 2](401/Class6Game2.md)
 - [Class 8 - Ten Thousand Game 3](401/Class6Game3.md)
 - [Class 9 - Ten Thousand Game 4](401/Class6Game4.md)
-- [Class 10 - Stacks and Queues](401/Class10Stacks.md)
-- [Class 11 - Data Analysis](401/Class11Data.md)
-- [Class 12 - Pandas](401/Class12Pandas.md)
-- [Class 13 - Linear Regressions](401/Class13LRegression.md)
-- [Class 14 - Data Visualization](401/Class14DataViz.md)
-- [Class 15 - Trees](401/Class15Trees.md)
-- [Class 16 - Serverless Functions](401/Class16Serverless.md)
-- [Class 17 - Web Scraping](401/Class17Scraping.md)
-- [Class 18 - Cryptography](401/Class18Cryptography.md)
-- [Class 19 - Automation](401/Class19Automation.md)
+- [Class 10 - Stacks and Queues](401/Class10Stacks.md)nd
+- [Class 11 - Data Analysis](401/Class11Data.md)nd
+- [Class 12 - Pandas](401/Class12Pandas.md)nd
+- [Class 13 - Linear Regressions](401/Class13LRegression.md)nd
+- [Class 14 - Data Visualization](401/Class14DataViz.md)nd
+- [Class 15 - Trees](401/Class15Trees.md)nd
+- [Class 16 - Serverless Functions](401/Class16Serverless.md)nd
+- [Class 17 - Web Scraping](401/Class17Scraping.md)nd
+- [Class 18 - Cryptography](401/Class18Cryptography.md)nd
+- [Class 19 - Automation](401/Class19Automation.md)nd
 (Some Classes are Taken up with Midterm Project Preparations)
-- [Class 26 - Intro to Django](401/Class26Djando.md)
-- [Class 27 - Django Models](401/Class27DjandoModels.md)
-- [Class 28 - Django CRUD and Forms](401/Class28DJCrud.md)
-- [Class 29 - Django Custom Users](401/Class29DJCustom.md)
-- [Class 30 - Hash Tables](401/Class30Hash.md)
-- [Class 31 - Django REST Framework & Docker](401/Class31DJRest.md)
-- [Class 32 - Permissions & Postgresql](401/Class32PP.md)
-- [Class 33 - Authentication & Production Server](401/Class33AP.md)
-- [Class 33 - Authentication & Production Server](401/Class34Servers.md)
-- [Class 34 - API Deployment](401/Class35API.md)
-- [Class 35 - Graphs](401/Class35Graphs.md)
-- [Class 36 - DSA Review](401/Class36DSA.md)
-- [Class 37 - React 1](401/Class37React1.md)
-- [Class 38 - React 2](401/Class38React2.md)
-- [Class 39 - React 3](401/Class39React3.md)
+- [Class 26 - Intro to Django](401/Class26Djando.md)nd
+- [Class 27 - Django Models](401/Class27DjandoModels.md)nd
+- [Class 28 - Django CRUD and Forms](401/Class28DJCrud.md)nd
+- [Class 29 - Django Custom Users](401/Class29DJCustom.md)nd
+- [Class 30 - Hash Tables](401/Class30Hash.md)nd
+- [Class 31 - Django REST Framework & Docker](401/Class31DJRest.md)nd
+- [Class 32 - Permissions & Postgresql](401/Class32PP.md)nd
+- [Class 33 - Authentication & Production Server](401/Class33AP.md)nd
+- [Class 33 - Authentication & Production Server](401/Class34Servers.md)nd
+- [Class 34 - API Deployment](401/Class35API.md)nd
+- [Class 35 - Graphs](401/Class35Graphs.md)nd
+- [Class 36 - DSA Review](401/Class36DSA.md)nd
+- [Class 37 - React 1](401/Class37React1.md)nd
+- [Class 38 - React 2](401/Class38React2.md)nd
+- [Class 39 - React 3](401/Class39React3.md)nd
 (There is no reading for class 40)
-- [Class 41 - React 4](401/Class41React4.md)
-- [Class 42 - Pythonisms](401/Class42Pythonisms.md)
+- [Class 41 - React 4](401/Class41React4.md)nd
+- [Class 42 - Pythonisms](401/Class42Pythonisms.md)nd
 - [Class 43 - Ethics in Tech](401/Class43Ethics.md)
 - [Class 43B - Open Source Software Contributions](401/Class43BOSS.md)
 
