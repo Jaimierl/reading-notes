@@ -6,19 +6,20 @@ This is my reading notes depot to keep track of notes from assigned study docume
 
 My name is Jae and I currently work as an account manager.
 
-##### I am very excited to be learning to code! 
+##### I am very excited to be learning to code!
 
 ### The Growth Mindset
 
-A growth mindset is essentially a committment to learning. It is believing that you have the capacity to learn instead of just being stuck with the knowledge and innate abilities you alreeady excel at. Having a growth mindset will enable me to embrace challenges, overcome obstacles and welcome being stuck (within reason) as a chance to learn.
+A growth mindset is essentially a commitment to learning. It is believing that you have the capacity to learn instead of just being stuck with the knowledge and innate abilities you already excel at. Having a growth mindset will enable me to embrace challenges, overcome obstacles and welcome being stuck (within reason) as a chance to learn.
 
 How to keep myself in a growth mindset:
-- [x] Embrace making mistakes
-- [x] Be patient with myself
-- [x] Ask for help when needed
 
+- [x] Embrace making mistakes!
+- [x] Be patient with myself!
+- [x] Ask for help when needed!
 
-## Topics from Code 102 - Intro to Software Development:
+## Topics from Code 102 - Intro to Software Development
+
 - [Markdown](102/markdown.md)
 - [Command Line Basics](102/command-line-basics.md)
 - [Git](102/git.md)
@@ -29,6 +30,7 @@ How to keep myself in a growth mindset:
 - [Loops in Javascript](102/javascript3.md)
 
 ## Topics from Code 201 - Foundations of Software Development
+
 - [Reintro to HTML and Javascript](201/class-01.md)
 - [HTML and Javascript: A Closer Look Ft. Github](201/class-02.md)
 - [HTML Lists, The CSS Box Model, and JS Control Flow](201/class-03.md)
@@ -46,6 +48,7 @@ How to keep myself in a growth mindset:
 - [Class 14b](201/class-14b.md)
 
 ## Topics from Code 301 - Intermediate Software Development
+
 - [Intro to React and Components](301/reactAndComponents.md)
 - [State and Props](301/stateAndProps.md)
 - [Passing Functions as Props](301/passFunctionsAsProps.md)
@@ -62,6 +65,7 @@ How to keep myself in a growth mindset:
 - [Authentication](301/authentication.md)
 
 ## Topics from Code 401 - Advanced Software Development in Python
+
 - [SQL Review](401/SQLReview/SQLReview.md)
 - [The Command Line](401/TheCommandLine.md)
 - [Class 1 - Big O (Notation)](401/Class1BigO.md)
@@ -108,6 +112,7 @@ How to keep myself in a growth mindset:
 Check out the rest of my portfolio [here](http://jaimierl.github.io)
 
 ## Things I want to know more about
+
 - The Northern Lights
 - Middle Eastern History
 - African Architecture
