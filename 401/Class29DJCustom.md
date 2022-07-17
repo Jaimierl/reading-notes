@@ -1,7 +1,5 @@
 # Django Custom Users
 
-This topic matters in relation to what we are studying in this module:
-
-Either answer provided questions or summarize this module and explain the topic via an analogy to something everyday.  
+This topic matters in relation to what we are studying in this module as we will be expanding on the use of models to include custom users. It is really useful that they have an included user model, although it seems like it is most practical to create a custom user model. When looking at this Django user creation, I wonder if any of this information is accessible to the user the way certain elements can be visible to the user through inspecting the elements. If any of the security or administrator permission code can be made available to users, the site could be more susceptible to hacking attacks. All in all, learning how to create a custom user with authentication looks like an interesting security step that I am excited to learn more about.
 
 [Reading Notes Home Page](README.md)
