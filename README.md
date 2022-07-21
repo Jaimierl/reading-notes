@@ -91,15 +91,14 @@ How to keep myself in a growth mindset:
 - [Class 26 - Intro to Django](401/Class26Djando.md)
 - [Class 27 - Django Models](401/Class27DjandoModels.md)
 - [Class 28 - Django CRUD and Forms](401/Class28DJCrud.md)
-- [Class 29 - Django Custom Users](401/Class29DJCustom.md)nd
-- [Class 30 - Hash Tables](401/Class30Hash.md)nd
-- [Class 31 - Django REST Framework & Docker](401/Class31DJRest.md)nd
-- [Class 32 - Permissions & Postgresql](401/Class32PP.md)nd
+- [Class 29 - Django Custom Users](401/Class29DJCustom.md)
+- [Class 30 - Hash Tables](401/Class30Hash.md)
+- [Class 31 - Django REST Framework & Docker](401/Class31DJRest.md)
+- [Class 32 - Permissions & Postgresql](401/Class32PP.md)
 - [Class 33 - Authentication & Production Server](401/Class33AP.md)nd
-- [Class 33 - Authentication & Production Server](401/Class34Servers.md)nd
-- [Class 34 - API Deployment](401/Class35API.md)nd
-- [Class 35 - Graphs](401/Class35Graphs.md)nd
-- [Class 36 - DSA Review](401/Class36DSA.md)nd
+- [Class 34 - API Deployment](401/Class34API.md)nd
+- [Class 35 - Graphs](401/Class35Graphs.md)
+- [Class 36 - DSA Review](401/Class36DSA.md)
 - [Class 37 - React 1](401/Class37React1.md)nd
 - [Class 38 - React 2](401/Class38React2.md)nd
 - [Class 39 - React 3](401/Class39React3.md)nd
