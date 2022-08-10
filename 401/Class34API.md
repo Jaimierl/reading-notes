@@ -1,7 +1,9 @@
 # API Deployment
 
-This topic matters in relation to what we are studying in this module:
+In this module we are going to continue looking into API deployment using Django. The interesting thing about Django is that it is containerized, which means that there can be issues with getting the containers set up just right between different people who may be working on the same code, files when different authenticators need to be passed around, or even on ones own machine. To combat this, all of the different settings can be saved as packages within the environment variables. Essentially, we are familiar with needing a file structure to separate our different classes or functions, and we can similarly set up a directory of settings that correspond to different files so that we can load only the settings for the files we need to work on. Plus, we can make sure our containers for said files remain consistent whether we are working with other people, or just need to set up the same container for ourselves later.
 
-Either answer provided questions or summarize this module and explain the topic via an analogy to something everyday.  
+To learn more about containerization settings with Django, click [here](https://djangostars.com/blog/configuring-django-settings-best-practices/)
+
+In an unrelated note, we have SSH which is essentially how data can be transferred securely over the internet. One analogy I really enjoyed for Asymmetric Encryption can be found [here](https://www.youtube.com/watch?v=jhXCTbFnK8o&ab_channel=CrashCourse). Essentially, sites can communicate with users using public keys whereas users have private keys. We can think of these keys as paint colours. Users can "mix" their private key colours with the public keys and share information. If the public key and the colours from the sender and the receiver are all three mixed together, they will amount to the same paint colour even though the two users did not know each others colour. This also helps if the information is intercepted, because the interceptor would have 2/3 colours and not be able to see the full picture.
 
 [Reading Notes Home Page](README.md)
