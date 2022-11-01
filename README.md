@@ -99,11 +99,11 @@ How to keep myself in a growth mindset:
 - [Class 34 - API Deployment](401/Class34API.md)nd
 - [Class 35 - Graphs](401/Class35Graphs.md)
 - [Class 36 - DSA Review](401/Class36DSA.md)
-- [Class 37 - React 1](401/Class37React1.md)nd
-- [Class 38 - React 2](401/Class38React2.md)nd
-- [Class 39 - React 3](401/Class39React3.md)nd
+- [Class 37 - React 1](401/Class37React1.md)
+- [Class 38 - React 2](401/Class38React2.md)
+- [Class 39 - React 3](401/Class39React3.md)
 (There is no reading for class 40)
-- [Class 41 - React 4](401/Class41React4.md)nd
+- [Class 41 - React 4](401/Class41React4.md)
 - [Class 42 - Pythonisms](401/Class42Pythonisms.md)
 - [Class 43 - Ethics in Tech](401/Class43Ethics.md)
 - [Class 43B - Open Source Software Contributions](401/Class43BOSS.md)
